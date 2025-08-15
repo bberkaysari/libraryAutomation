@@ -24,17 +24,17 @@ Kullanıcılar kitap, yazar, kategori ve okuyucu ekleyebilir; kitapların duruml
 
 ## 📸 Ekran Görüntüleri
 
-| Giriş Sayfası | Dashboard |
-|---------------|-----------|
-| ![Login](login.png) | ![Dashboard](screenshots/dashboard.png) |
+| Giriş Sayfası | 
+|---------------|
+| ![Login](login.png) | 
 
-| Kitap Ekleme | Kitap Listesi |
-|--------------|--------------|
-| ![Kitap Ekle](add-book.png) | ![Kitap Listesi](screenshots/book-list.png) |
+| Kitap Ekleme | 
+|--------------|
+| ![Kitap Ekle](add-book.png) | 
 
-| Kitap Listeleme | Kitap Listesi |
-|--------------|--------------|
-| ![Kitap Ekle](liste.png) | ![Kitap Listesi](screenshots/book-list.png) |
+| Kitap Listeleme |
+|--------------|
+| ![Kitap Ekle](liste.png) |
 
 
 
