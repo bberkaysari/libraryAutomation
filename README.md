@@ -32,9 +32,9 @@ Kullanıcılar kitap, yazar, kategori ve okuyucu ekleyebilir; kitapların duruml
 |--------------|--------------|
 | ![Kitap Ekle](add-book.png) | ![Kitap Listesi](screenshots/book-list.png) |
 
-## 📂 Kurulum
+| Kitap Listeleme | Kitap Listesi |
+|--------------|--------------|
+| ![Kitap Ekle](liste.png) | ![Kitap Listesi](screenshots/book-list.png) |
 
-### 1. Depoyu Klonla
-```bash
-git clone https://github.com/<kullanici-adiniz>/libraryAutomation.git
-cd libraryAutomation
+
+
